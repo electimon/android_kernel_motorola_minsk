@@ -98,3 +98,4 @@ obj-$(CONFIG_MMI_SIGPRINT)      += mmi_sigprint.o
 obj-$(CONFIG_MMI_SYS_TEMP) += mmi_sys_temp/
 obj-$(CONFIG_MOTO_UTAGS) += utag/
 obj-$(CONFIG_PEN_BU520XX) += pen/
+obj-$(CONFIG_REGULATOR_TPS61280) += tps61280/
