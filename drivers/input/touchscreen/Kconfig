@@ -1299,5 +1299,6 @@ config TOUCHSCREEN_SYNAPTICS_TCM
 	  If unsure, say N.
 
 source "drivers/input/touchscreen/synaptics_tcm/Kconfig"
+source "drivers/input/touchscreen/nova_0flash_mmi/Kconfig"
 
 endif
